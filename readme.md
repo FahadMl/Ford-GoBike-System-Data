@@ -1,5 +1,5 @@
-# (Ford GoBike System Data)
-## by (Fahad Abudjeen)
+Ford GoBike System Data
+## by Fahad Abudjeen
 
 
 ## Dataset
