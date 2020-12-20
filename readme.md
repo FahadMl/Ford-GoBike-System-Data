@@ -8,7 +8,7 @@
 
 
 >There are 183412 observations in the dataset with 16 variables.
-The 16 features and their short description is as follows:
+- The 16 features and their short description is as follows:
 duration_sec: the period duration time by second.
 start_time: beginning duration for start time.
 end_time: finish duration for end time.
