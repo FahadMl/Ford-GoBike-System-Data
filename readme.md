@@ -1,5 +1,5 @@
-##                                                                  Ford GoBike System Data
-## by Fahad Abudjeen
+# (Ford GoBike System Data)
+## by (Fahad Abudjeen)
 
 
 ## Dataset
@@ -9,22 +9,22 @@
 
 >There are 183412 observations in the dataset with 16 variables.
 The 16 features and their short description is as follows:
-- **duration_sec:** the period duration time by second.
-- **start_time:** beginning duration for start time.
-- **end_time:** finish duration for end time.
-- **start_station_id:** the id number of start station.
-- **start_station_name:** the name of kick station.
-- **start_station_latitude:** it's location (latitude) of start station.
-- **start_station_longitude:** it's location (longitude) of start station
-- **end_station_id:** the id number of end station
-- **end_station_name:** the name of end station
-- **end_station_latitude:** it's location (latitude) of start station
-- **end_station_longitude:** it's location (longitude) of start station
-- **bike_id:** the number id of bike
-- **user_type:** the user type of the bike.
-- **member_birth_year:** the birth year of member who use the bike.
-- **member_gender:** the member gender who use the bike.
-- **bike_share_for_all_trip:** annual membership for qualifying Bay Area residents.
+duration_sec: the period duration time by second.
+start_time: beginning duration for start time.
+end_time: finish duration for end time.
+start_station_id: the id number of start station.
+start_station_name: the name of kick station.
+start_station_latitude: it's location (latitude) of start station.
+start_station_longitude: it's location (longitude) of start station
+end_station_id: the id number of end station
+end_station_name: the name of end station
+end_station_latitude: it's location (latitude) of start station
+end_station_longitude: it's location (longitude) of start station
+bike_id: the number id of bike
+user_type: the user type of the bike.
+member_birth_year: the birth year of member who use the bike.
+member_gender: the member gender who use the bike.
+bike_share_for_all_trip: annual membership for qualifying Bay Area residents.
 
 
 
